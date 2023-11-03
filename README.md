@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Pomodoro</h1>
+<h1 align="center">:file_cabinet: TravelApp</h1>
 
 ## :memo: Descrição
 
