@@ -5,7 +5,7 @@
 Esse projeto é uma landingpage para divulgar o TravelApp. Além de todos os benefícios de uma landingpage como: Integração de Mídias, Velocidade de Carregamento, SEO Aprimorado, Integração de Redes Sociais, Análise de Dados Captura de Leads, Atualizações Simples esse projeto em especial aborda principalmente um 
 Design Responsivo: Com uma interface web moderna, a landing page se adapta a dispositivos diferentes, como smartphones e tablets, garantindo uma experiência de usuário consistente em todas as telas.
 
-s
+
 ## :camera: Demonstração
 
 ![gif](github/Demonstração.gif)
