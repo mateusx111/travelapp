@@ -2,25 +2,24 @@
 
 ## :memo: Descrição
 
-Um aplicativo de Pomodoro é uma ferramenta de produtividade que ajuda os usuários a gerenciar seu tempo de trabalho de forma eficaz, dividindo-o em intervalos de trabalho focado (geralmente 25 minutos) seguidos por curtas pausas. Isso ajuda a melhorar a concentração e a produtividade ao evitar distrações.
+Esse projeto é uma landingpage para divulgar o TravelApp. Além de todos os benefícios de uma landingpage como: Integração de Mídias, Velocidade de Carregamento, SEO Aprimorado, Integração de Redes Sociais, Análise de Dados Captura de Leads, Atualizações Simples esse projeto em especial aborda principalmente um 
+Design Responsivo: Com uma interface web moderna, a landing page se adapta a dispositivos diferentes, como smartphones e tablets, garantindo uma experiência de usuário consistente em todas as telas.
 
+s
 ## :camera: Demonstração
 
 ![gif](github/Demonstração.gif)
 ## :gear: Funcionalidades
 
-- <b>Funcionalidade 1</b>: Inicialmente você pode descrever uma atividade a qual dedicará o tempo que também deverá ser selecionado. essa podendo ser Interrompida caso seja necessário
-
-- <b>Funcionalidade 2</b>: Ao clicar no histórico é possível acompanhar e gerenciar o tempo pessoal para cada atividade podendo ver qual área foi trabalhada enquanto tempo, em que data foi iniciada e por fim se a atividade foi concluída, está em andamento ou foi finalizada.
+- <b>Funcionalidade </b>:
+O projeto foi elaborado para abordar principalmente os métodos de media-Query trazendo a melhor experiência em diversas telas com uma interface muito atual e atrativa
 
 ## :computer: Tecnologias utilizadas
 
 - Tecnologia;
-- Style-components;
+- Tailwindcss;
 - ReactJS;
-- Typescript
-- ZOD
-- Date-fns
+- Javascript
 - Vite
 - eslint
 
