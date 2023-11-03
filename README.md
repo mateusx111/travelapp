@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">:file_cabinet: Pomodoro</h1>
 
-## Getting Started
+## :memo: Descrição
 
-First, run the development server:
+Um aplicativo de Pomodoro é uma ferramenta de produtividade que ajuda os usuários a gerenciar seu tempo de trabalho de forma eficaz, dividindo-o em intervalos de trabalho focado (geralmente 25 minutos) seguidos por curtas pausas. Isso ajuda a melhorar a concentração e a produtividade ao evitar distrações.
 
-```bash
+## :camera: Demonstração
+
+![gif](github/Demonstração.gif)
+## :gear: Funcionalidades
+
+- <b>Funcionalidade 1</b>: Inicialmente você pode descrever uma atividade a qual dedicará o tempo que também deverá ser selecionado. essa podendo ser Interrompida caso seja necessário
+
+- <b>Funcionalidade 2</b>: Ao clicar no histórico é possível acompanhar e gerenciar o tempo pessoal para cada atividade podendo ver qual área foi trabalhada enquanto tempo, em que data foi iniciada e por fim se a atividade foi concluída, está em andamento ou foi finalizada.
+
+## :computer: Tecnologias utilizadas
+
+- Tecnologia;
+- Style-components;
+- ReactJS;
+- Typescript
+- ZOD
+- Date-fns
+- Vite
+- eslint
+
+## :rocket: Rodando o projeto
+
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+
+```
+npm install
+```
+```
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## :soon: Implementação futura
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ????
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## :handshake: Colaboradores
 
-## Learn More
+<table>
+<tr>
+<td align="center">
+<a href="http://https://github.com/mateusx111">
+<img src="https://github.com/mateusx111.png" width="100px;" alt="Foto de Mateus Souza no GitHub"/><br>
+<sub>
+<b>Mateus Souza</b>
+</sub>
+</a>
+</td>
+</tr>
+</table>
 
-To learn more about Next.js, take a look at the following resources:
+## :dart: Status do projeto
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- CONCLUÍDO
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Espero que tenha gostado! 😄
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-s-santos-8b89791b6/)](https://www.linkedin.com/in/mateus-s-santos-8b89791b6/)
