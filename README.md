@@ -18,6 +18,7 @@ O projeto foi elaborado para abordar principalmente os métodos de media-Query t
 
 - Tecnologia;
 - Tailwindcss;
+- NextJs
 - ReactJS;
 - Javascript
 - Vite
