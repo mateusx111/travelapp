@@ -21,9 +21,9 @@ export const Hero = () => {
         />
         <h1 className="bold-52 lg:bold-88">Putuk Truno Camp Area</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-          We want to be on each of your journeys seeking the satisfaction of
-          seeing the incorruptible beauty of nature. We can help you on an
-          adventure around the world in just one app
+          Queremos estar em cada uma de suas jornadas buscando a satisfação de
+          vendo a beleza incorruptível da natureza. Podemos ajudá-lo em um
+          aventura ao redor do mundo em apenas um aplicativo
         </p>
 
         <div className="my-11 flex flex-wrap gap-5">
@@ -45,16 +45,16 @@ export const Hero = () => {
             198k
             <span className="regular-16 lg:regular-20 ml-1">
               {" "}
-              Exlent Reviws
+              Excelentes Avaliações
             </span>
           </p>
         </div>
 
         <div className="flex flex-col w-full gap-3 sm:flex-row">
-          <Button type="button" title="Download App" variant="btn_green" />
+          <Button type="button" title="Baixe o App" variant="btn_green" />
           <Button
             type="button"
-            title="How We Work?"
+            title="Como Funcionamos?"
             icon="/play.svg"
             variant="btn_white_text"
           />
@@ -68,7 +68,7 @@ export const Hero = () => {
         >
           <div className="flex flex-col">
             <div className="flexBetween">
-              <p className="regular-16 text-gray-20">Location</p>
+              <p className="regular-16 text-gray-20">Localização</p>
               <Image src="/close.svg" alt="Close" width={24} height={24} />
             </div>
             <p className="bold-20 text-white">Aguas Calientes</p>
@@ -76,11 +76,11 @@ export const Hero = () => {
 
           <div className="flexBetween">
             <div className="flex flex-col">
-              <p className="regular-16 block text-gray-20">Distance</p>
+              <p className="regular-16 block text-gray-20">Distância</p>
               <p className="bold-20 text-white">173.28 mi</p>
             </div>
             <div className="flex flex-col">
-              <p className="regular-16 block text-gray-20">Elevation</p>
+              <p className="regular-16 block text-gray-20">Elevação</p>
               <p className="bold-20 text-white">2.040 km</p>
             </div>
           </div>
