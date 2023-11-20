@@ -29,7 +29,7 @@ export const Features = () => {
               height={50}
               className="absolute left-[-5px] top-[-28px] w-10 lg:w-[50px]"
             />
-            <h2 className="bold-40 lg:bold-64">Our Features</h2>
+            <h2 className="bold-40 lg:bold-64 mt-1 lg:mt-2">Nossos recursos</h2>
           </div>
 
           <ul className="mt-10 grid gap-10 md:grid-cols-2 lg:mg-20 lg:gap-20">

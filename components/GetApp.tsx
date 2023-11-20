@@ -8,11 +8,9 @@ export const GetApp = () => {
       <div className="get-app">
         <div className="z-20 flex flex-col items-star flex-1 justify-center gap-12">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[320px]">
-            Get for free now!
+            Obtenha gratuitamente!
           </h2>
-          <p className="regular-16 text-gray-10">
-            Available on iOS and Android
-          </p>
+          <p className="regular-16 text-gray-10">Disponível em iOS e Android</p>
 
           <div className="flex flex-col w-full gap-3 whitespace-nowrap xl:flex-row">
             <Button

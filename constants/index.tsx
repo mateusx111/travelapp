@@ -18,59 +18,60 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: "Real maps can be offline",
+    title: "Mapas reais podem estar offline",
     icon: "/map.svg",
     variant: "green",
     description:
-      "We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location",
+      "Fornecemos uma solução para você poder usar nosso aplicativo na hora de escalar, sim mapas offline você pode usar a qualquer momento não há sinal no local",
   },
   {
-    title: "Set an adventure schedule",
+    title: "Defina um cronograma de aventura",
     icon: "/calendar.svg",
     variant: "green",
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      "Agende uma aventura com amigos. Nos feriados, há muitas ofertas interessantes da Hilink. Dessa forma, não há mais discussão",
   },
   {
-    title: "Technology using augment reality",
+    title: "Tecnologia usando realidade aumentada",
     icon: "/tech.svg",
     variant: "green",
     description:
-      "Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection",
+      "A tecnologia usa a realidade aumentada como guia para sua trilha na floresta até o topo da montanha. Já suportado pela tecnologia mais recente sem conexão à Internet",
   },
   {
-    title: "Many new locations every month",
+    title: "Muitos novos locais todos os meses",
     icon: "/location.svg",
     variant: "orange",
     description:
-      "Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing",
+      "Muitos locais novos todos os meses, porque temos uma comunidade mundial de escaladores que compartilham suas melhores experiências com escalada",
   },
 ];
 
 // FOOTER SECTION
 export const FOOTER_LINKS = [
   {
-    title: "Learn More",
+    title: "Saiba Mais",
     links: [
-      "About Hilink",
-      "Press Releases",
-      "Environment",
-      "Jobs",
-      "Privacy Policy",
-      "Contact Us",
+      "Sobre Hilink",
+      "Lançamentos",
+      "Ambientes",
+      "Trabalhos",
+      "Politica de privacidade",
+      "Termos de uso",
+      "Contate-nos",
     ],
   },
   {
-    title: "Our Community",
+    title: "Nossa Comunidade",
     links: ["Climbing xixixi", "Hiking hilink", "Hilink kinthill"],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
-  title: "Contact Us",
+  title: "Contate-nos",
   links: [
-    { label: "Admin Officer", value: "123-456-7890" },
-    { label: "Email Officer", value: "hilink@akinthil.com" },
+    { label: "Diretor administrativo", value: "123-456-7890" },
+    { label: "Email Oficial", value: "hilink@akinthil.com" },
   ],
 };
 

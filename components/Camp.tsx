@@ -56,7 +56,7 @@ export const Camp = () => {
      flex-col py-10 lg:mb-10 lg:py-20 xl:mb-20"
     >
       <div
-        className="hide-scrollbar flex h-[340px] w-full items-start justify-start
+        className="hide-scrollbar flex h-[600px] w-full items-start justify-start
         gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]"
       >
         <CampSite
@@ -78,12 +78,12 @@ export const Camp = () => {
          xl:rounded-5xl xl:px-16 xl:ly-20 relative w-full overflow-hidden rounded-3xl"
         >
           <h2 className="regular-24 md:regular-32 2xl:regular-64 capitalize text-white">
-            <strong>Feeling Lost</strong> And Not Knowing The Way?
+            <strong>Se sentindo perdido</strong> e não sabe o caminho?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            We want to be on each of your journeys seeking the satisfaction of
-            seeing the incorruptible beauty of nature. We can help you on an
-            adventure around the world in just one app
+            Queremos estar em cada uma de suas jornadas buscando a satisfação de
+            vendo a beleza incorruptível da natureza. Podemos ajudá-lo em um
+            aventura ao redor do mundo em apenas um aplicativo
           </p>
           <Image
             src="/quote.svg"
